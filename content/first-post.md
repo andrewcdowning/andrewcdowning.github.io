@@ -1,5 +1,5 @@
 title: First Post on My Sweet New Blog
-date: 09-20-2020
+date: 2020-09-20 18:15
 author: Andrew Downing
 
 # I hope you find the articles informative and enjoyable!
