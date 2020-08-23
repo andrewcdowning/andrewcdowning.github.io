@@ -9,4 +9,4 @@ When not at work you can usually find me fishing or hiking with my family. I als
 
 😆
 
-[my_sweet_photo]: {static}/images/andrews_photo.img
+[my_sweet_photo]: {static}/images/my_sweet_picture.jpg
